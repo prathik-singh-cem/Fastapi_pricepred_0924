@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "prediction": 658560.78,
+  "confidence": "High",
+  "breakdown": {
+    "randomForest": 705314.34,
+    "xgboost": 471546.53
+  },
+  "timestamp": "2025-09-24T21:41:05.198933",
+"shared_active_cost"     : 0.0,
+"shared_passive_cost"    : 658560.78,
+"dedicated_active_cost"  : 0.0,
+"dedicated_passive_cost" : 0.0,
+"Miscellaneous_cost"     : 0.0
+}

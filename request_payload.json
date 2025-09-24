@@ -1,0 +1,91 @@
+{
+  "name": "PBYH029A",
+  "origin": "PBYH029A",
+  "equipment": [
+    {
+      "type": "Antenna",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 367,
+      "qtyType": null,
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    },
+    {
+      "type": "Coax Cable",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 31879.98,
+      "qtyType": "feet",
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    },
+    {
+      "type": "Splitter",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 265,
+      "qtyType": null,
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    },
+    {
+      "type": "Jumper",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 260,
+      "qtyType": null,
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    },
+    {
+      "type": "Connector",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 788,
+      "qtyType": null,
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    },
+    {
+      "type": "iBiU POI",
+      "componentGroup": "",
+      "manufacturer": "Generic",
+      "model": "",
+      "description": "",
+      "inventory": "N/A",
+      "qty": 2,
+      "qtyType": null,
+      "shared": true,
+      "numberOfOtherOperators": 2,
+      "classification": "Passive"
+    }
+  ],
+  "installation": {
+    "venueType": "office",
+    "solutionType": "das",
+    "totalCoverageArea": 639863,
+    "numberOfFloors": 17,
+    "numberOfBuildings": 7
+  }
+}
